@@ -37,6 +37,9 @@
     "type": "git",
     "url": "git+https://github.com/bemakonate/strapi-plugin-restaurant-settings"
   },
+  "bugs": {
+    "url": "https://github.com/bemakonate/strapi-plugin-restaurant-settings/issues"
+  },
   "license": "MIT",
   "devDependencies": {}
 }
