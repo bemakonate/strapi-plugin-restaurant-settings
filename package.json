@@ -8,7 +8,7 @@
     "description": "Description of restaurant-settings plugin."
   },
   "dependencies": {
-    "@buffetjs/core": "^3.3.1",
+    "@buffetjs/core": "^3.3.6",
     "axios": "^0.21.0",
     "moment": "^2.29.1",
     "moment-business-time": "^1.1.0",
@@ -41,5 +41,8 @@
     "url": "https://github.com/bemakonate/strapi-plugin-restaurant-settings/issues"
   },
   "license": "MIT",
-  "devDependencies": {}
+  "devDependencies": {
+    "css-loader": "^5.2.6",
+    "style-loader": "^2.0.0"
+  }
 }
