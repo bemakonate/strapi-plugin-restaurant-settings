@@ -17,9 +17,6 @@
     "tagline": {
       "type": "string"
     },
-    "description": {
-      "type": "text"
-    },
     "products": {
       "plugin": "restaurant-settings",
       "collection": "product",

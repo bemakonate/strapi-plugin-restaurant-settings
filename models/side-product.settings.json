@@ -17,9 +17,6 @@
     "additionalCost": {
       "type": "decimal"
     },
-    "description": {
-      "type": "text"
-    },
     "products": {
       "plugin": "restaurant-settings",
       "via": "sideProducts",

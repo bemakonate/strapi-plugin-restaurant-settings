@@ -21,7 +21,6 @@ type restaurantSettingsSideProduct {
     updatedAt: DateTime!
     name: String
     additionalCost: Float
-    description: String
     products(sort: String, limit: Int, start: Int, where: JSON): [restaurantSettingsProduct]
 }
 
