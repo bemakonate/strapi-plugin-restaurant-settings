@@ -15,7 +15,8 @@
       "type": "string"
     },
     "additionalCost": {
-      "type": "decimal"
+      "type": "decimal",
+      "default": "0.00"
     },
     "products": {
       "plugin": "restaurant-settings",
