@@ -13,6 +13,7 @@
     "moment": "^2.29.1",
     "moment-business-time": "^1.1.0",
     "moment-timezone": "^0.5.31",
+    "strapi-utils": "^3.6.3",
     "styled-components": "^5.2.1"
   },
   "author": {
