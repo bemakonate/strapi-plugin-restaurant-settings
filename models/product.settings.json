@@ -18,10 +18,6 @@
       "type": "decimal",
       "default": "0.00"
     },
-    "sideProductsPerQuantity": {
-      "type": "integer",
-      "default": "0"
-    },
     "description": {
       "type": "text"
     },
