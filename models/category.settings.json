@@ -11,10 +11,7 @@
     "comment": ""
   },
   "attributes": {
-    "title": {
-      "type": "string"
-    },
-    "tagline": {
+    "name": {
       "type": "string"
     },
     "products": {
